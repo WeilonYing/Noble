@@ -55,6 +55,9 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 
+# Exported game
+Export/*
+
 # Cache files for the editor to use
 DerivedDataCache/*
 

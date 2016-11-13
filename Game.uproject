@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.11",
+	"EngineAssociation": "4.13",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Game",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Substance",
