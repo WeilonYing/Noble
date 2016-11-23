@@ -3,15 +3,15 @@
 An ongoing video game project to showcase the artistic and technical talents of:
   * Jackie Cai
   * Weilon Ying
-  * Huai Dong Loo
-  * Jane Chen
-  * Craig Stubbs-Race
-  * Stephen Yu
-  * David Nguyen
   * Julian Beiboer
+  * Craig Stubbs-Race
   * Max Kelly-Mills
-  * Olivia Green
-  * Phillipe Amaro
   * Liam Oats Wheatley
+  * Huai Dong Loo
+  * David Nguyen
+  * Jane Chen
   * Chad Alley
+  * Phillipe Amaro
+  * Olivia Green
+  * Stephen Yu
   * Nakul Umashankar
