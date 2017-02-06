@@ -8,8 +8,8 @@ An ongoing video game project to showcase the artistic and technical talents of:
   * Max Kelly-Mills
   * Liam Oats Wheatley
   * Huai Dong Loo
-  * David Nguyen
   * Jane Chen
+  * David Nguyen
   * Chad Alley
   * Phillipe Amaro
   * Olivia Green
