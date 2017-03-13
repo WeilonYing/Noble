@@ -1,6 +1,6 @@
-# Project Noble
+# Project Noble (a.k.a Flightless)
 ## Overview ##
-An ongoing video game project to showcase the artistic and technical talents of:
+A video game project to showcase the artistic and technical talents of:
   * Jackie Cai
   * Weilon Ying
   * Julian Beiboer
