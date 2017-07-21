@@ -1,6 +1,8 @@
 # Project Noble (a.k.a Flightless)
 ## Overview ##
-A video game project to showcase the artistic and technical talents of:
+The game is built in Unreal Engine 4.13.
+
+## Credits ##
   * Jackie Cai
   * Weilon Ying
   * Julian Beiboer
